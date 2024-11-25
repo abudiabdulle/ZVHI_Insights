@@ -30,10 +30,13 @@ The analysis is structured as follows:
 ### 4. Peak and Trough Analysis
 - The highest (peak) and lowest (trough) ZHVI values are identified for Minneapolis and the Midwest.
 - These values are visually annotated on time-series plots.
-## Visualizations and Insights
 
-### 1. Average ZHVI Over Time
-![Average ZHVI Over Time](./path-to-your-file/Average%20ZHVI%20overtime.png)
+
+## Visualizations and Insights
+![Alt Text](path_to_image)
+
+## Average ZHVI Over Time
+![Average ZHVI Over Time](Average%20ZHVI%20overtime.png)
 
 - **Description**: This time-series visualization shows the growth in the average Zillow Home Value Index (ZHVI) across time.
 - **Insights**:
@@ -42,8 +45,9 @@ The analysis is structured as follows:
 
 ---
 
-### 2. ZHVI Trends: Minneapolis vs. Midwest Sub-Regions
-![ZHVI Trends: Minneapolis vs. Midwest Sub-Regions](./path-to-your-file/MN%20vs%20midwest%20sub-regions.png)
+
+## ZHVI Trends: Minnesota Metro Areas vs. Midwest Sub-Regions
+![ZHVI Trends: Minnesota vs. Midwest](MN%20vs%20midwest%20sub-regions.png)
 
 - **Description**: A comparison of ZHVI trends between Minneapolis and Midwest sub-regions (East and West).
 - **Insights**:
@@ -53,8 +57,8 @@ The analysis is structured as follows:
 
 ---
 
-### 3. Monthly Growth Rate of Average ZHVI
-![Monthly Growth Rate of Average ZHVI]("C:\Users\abudi\OneDrive\Pictures\Screenshots\Monthly growth rate on Average ZHVI.png")
+## Monthly Growth Rate of Average ZHVI
+![Monthly Growth Rate](Monthly%20growth%20rate%20on%20Average%20ZHVI.png)
 
 - **Description**: This plot captures the percentage change in ZHVI values on a monthly basis.
 - **Insights**:
@@ -66,35 +70,6 @@ The analysis is structured as follows:
 
 ### Summary of Visualizations
 These visualizations provide critical evidence of the evolving dynamics in housing trends. They highlight Minneapolis' strong growth relative to the Midwest, the challenges in affordability, and the resilience of the housing market through economic cycles.
-
-![Alt Text](path_to_image)
-
-
-# ZHVI Insights
-
-## Average ZHVI Over Time
-![Average ZHVI Over Time](Average%20ZHVI%20overtime.png)
-
-This chart shows the trends in the Zillow Home Value Index (ZHVI) over time, highlighting key periods of growth and stagnation.
-
----
-
-## ZHVI Trends: Minnesota Metro Areas vs. Midwest Sub-Regions
-![ZHVI Trends: Minnesota vs. Midwest](MN%20vs%20midwest%20sub-regions.png)
-
-This graph compares the ZHVI trends between Minnesota and the Midwest's sub-regions, emphasizing Minnesota's consistently higher values.
-
----
-
-## Monthly Growth Rate of Average ZHVI
-![Monthly Growth Rate](Monthly%20growth%20rate%20on%20Average%20ZHVI.png)
-
-This chart illustrates the monthly growth rate of ZHVI, identifying periods of rapid growth, stability, and market corrections.
-
-
-
-
-
 
 
 
