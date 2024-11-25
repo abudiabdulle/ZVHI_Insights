@@ -67,8 +67,29 @@ The analysis is structured as follows:
 ### Summary of Visualizations
 These visualizations provide critical evidence of the evolving dynamics in housing trends. They highlight Minneapolis' strong growth relative to the Midwest, the challenges in affordability, and the resilience of the housing market through economic cycles.
 
+![Alt Text](path_to_image)
 
 
+# ZHVI Insights
+
+## Average ZHVI Over Time
+![Average ZHVI Over Time](Average%20ZHVI%20overtime.png)
+
+This chart shows the trends in the Zillow Home Value Index (ZHVI) over time, highlighting key periods of growth and stagnation.
+
+---
+
+## ZHVI Trends: Minnesota Metro Areas vs. Midwest Sub-Regions
+![ZHVI Trends: Minnesota vs. Midwest](MN%20vs%20midwest%20sub-regions.png)
+
+This graph compares the ZHVI trends between Minnesota and the Midwest's sub-regions, emphasizing Minnesota's consistently higher values.
+
+---
+
+## Monthly Growth Rate of Average ZHVI
+![Monthly Growth Rate](Monthly%20growth%20rate%20on%20Average%20ZHVI.png)
+
+This chart illustrates the monthly growth rate of ZHVI, identifying periods of rapid growth, stability, and market corrections.
 
 
 
